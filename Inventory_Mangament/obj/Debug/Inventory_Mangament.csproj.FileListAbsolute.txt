@@ -1,0 +1,7 @@
+C:\Users\josjo\source\repos\Inventory_Mangament\Inventory_Mangament\bin\Debug\Inventory_Mangament.exe.config
+C:\Users\josjo\source\repos\Inventory_Mangament\Inventory_Mangament\bin\Debug\Inventory_Mangament.exe
+C:\Users\josjo\source\repos\Inventory_Mangament\Inventory_Mangament\bin\Debug\Inventory_Mangament.pdb
+C:\Users\josjo\source\repos\Inventory_Mangament\Inventory_Mangament\obj\Debug\Inventory_Mangament.csproj.AssemblyReference.cache
+C:\Users\josjo\source\repos\Inventory_Mangament\Inventory_Mangament\obj\Debug\Inventory_Mangament.csproj.CoreCompileInputs.cache
+C:\Users\josjo\source\repos\Inventory_Mangament\Inventory_Mangament\obj\Debug\Inventory_Mangament.exe
+C:\Users\josjo\source\repos\Inventory_Mangament\Inventory_Mangament\obj\Debug\Inventory_Mangament.pdb
